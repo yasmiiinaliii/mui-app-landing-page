@@ -19,6 +19,18 @@ const theme = createTheme({
             fontSize: '2.75rem',
             fontWeight: '400'
         },
+        h2:{
+            fontSize: '2.5rem',
+        },
+        h3:{
+            fontSize: '2.25rem',
+        },
+        h4:{
+            fontSize: '2rem',
+        },
+        h5:{
+            fontSize: '1.25rem',
+        },
         h6:{
             fontSize: '1.5rem',
             color: '#424FAF'
